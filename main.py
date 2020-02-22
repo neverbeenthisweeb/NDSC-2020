@@ -1,3 +1,7 @@
+# Lecturer:
+# Zaky Syihan
+# (https://www.linkedin.com/in/ahmad-zaky-syihan-53014b174/)
+
 # 1
 import pandas as pd
 from sklearn.model_selection import train_test_split
